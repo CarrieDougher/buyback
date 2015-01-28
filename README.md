@@ -28,7 +28,9 @@ Information to come in v0.2
   * Mahan Salaabi
 
 ###v.01 Release Notes
-
+  * Repo created
+  * Contributers added
+  * Initial project scope and mockups added to "Overview" folder
 
 
 
